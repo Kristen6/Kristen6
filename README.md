@@ -19,11 +19,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks and Tools:**  
+![Spring Framework](https://img.shields.io/badge/Spring%20framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
 ![MyBatis](https://img.shields.io/badge/MyBatis-4479A1?style=for-the-badge&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MyBatis Plus](https://img.shields.io/badge/MyBatis_Plus-4479A1?style=for-the-badge&logo=java&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -34,10 +37,10 @@
 
 ---
 
-### ### 🎯 Qutoe for today
-
+### 🎯 Qutoe for today
+<div align="center">
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 ---
 
 ### 💼 Experience
@@ -75,10 +78,12 @@
 
 ### 📊 GitHub Stats
 
-![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristen6&show_icons=true&theme=radical)
+<div align="center">
+  ![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kristen6&show_icons=true&theme=radical)
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Kristen6&theme=radical)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kristen6&theme=radical)](https://git.io/streak-stats)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kristen6&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kristen6&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
 
 ---
